@@ -1,0 +1,62 @@
+# Meta Data for SEO
+
+## Homepage
+title = "Popsicle"
+titleSeparator = "|"
+titleAddition = "Popsicle Discord Bot"
+description = "Popsicle is a Multifunction Bot that Hangs around Discord."
+
+## Open Graph
+images = ["https://media.discordapp.net/attachments/800931794551439431/816790388270301274/7f86984b7a5f2cb4903a8ccab5c19d25.gif"]
+ogLocale = "en_US"
+domainTLD = "https://www.popsicle.works/"
+titleHome = "Popsicle Website"
+
+## JSON-LD
+# schemaType = "Person"
+schemaType = "Organization"
+schemaName = "Popsicle Website"
+schemaAuthor = "Dennys Matthew"
+schemaAuthorGitHub = "https://github.com/GNZTMPZ"
+schemaLocale = "en-US"
+schemaLogo = "https://media.discordapp.net/attachments/800931794551439431/816790388270301274/7f86984b7a5f2cb4903a8ccab5c19d25.gif"
+schemaLogoWidth = 512
+schemaLogoHeight = 512
+schemaImage = "https://media.discordapp.net/attachments/800931794551439431/816790388270301274/7f86984b7a5f2cb4903a8ccab5c19d25.gif"
+schemaImageWidth = 1280
+schemaImageHeight = 640
+schemaGitHub = "https://github.com/GNZTMPZ/popsicle-website"
+schemaSection = "blog"
+
+## Sitelinks Search Box
+siteLinksSearchBox = false
+
+## Chrome Browser
+themeColor = "#fff"
+
+# Images
+quality = 85
+bgColor = "#fff"
+landscapePhotoWidths = [900, 800, 700, 600, 500]
+portraitPhotoWidths = [800, 700, 600, 500]
+lqipWidth = "20x"
+
+# Footer
+footer = "Front-End Development by <b><a href=\"https://gnztmpz.eu.org\">GNZTMPZ</a></b> <br> Back-End Development by <b><a>Zaps</a></b> <br> Copyright (c) 2021 Popsicle Inc."
+copyRight = "Copyright (c) 2021 Popsicle Inc."
+
+# Edit Page
+docsRepo = "https://github.com/GNZTMPZ/popsicle-website"
+editPage = false
+
+[options]
+  lazySizes = true
+  clipBoard = true
+  instantPage = true
+  flexSearch = true
+  darkMode = true
+  bootStrapJs = true
+  breadCrumb = false
+  highLight = true
+  kaTex = false
+  collapsibleSidebar = false
